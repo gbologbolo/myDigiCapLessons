@@ -8,7 +8,6 @@ user_number = float(input("Input any number you want: "))
 #Converting floating numbers to integer numbers
 user_number = int(user_number)
 
-
 print("Times Table of ["+ str(user_number) + "] is as follows")
 
 #Initialization of the starting point of the times table (from 1 to 12)
